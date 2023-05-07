@@ -54,4 +54,4 @@
 ## 🔗 ERD
 <img width="1080" alt="erd" src="https://user-images.githubusercontent.com/121335941/236657541-0ea1995b-bb06-4de1-b916-d9c292917782.png">
 
-## ✔️ [Trouble Shooting](https://github.com/srh0820/community/blob/main/pull_request_template.md)
+## ✔️ [Trouble Shooting](https://github.com/srh0820/community/blob/main/Trouble_Shooting.md)
