@@ -42,6 +42,9 @@
 * -[ ] 로그인 여부에 관계없이 모든 사용자는 게시글을 조회할 수 있다.
 * -[ ] 게시글 조회 시 제목, 게시글, 댓글 수, 작성 일시(수정 일시)의 정보를 조회할 수 있다.
 
+#### 특정 게시글 검색
+* -[ ] 게시글의 제목 또는 작성자의 아이디를 입력해서 게시글을 검색할 수 있다.
+
 #### 댓글 작성 및 조회
 * -[ ] 로그인 한 사용자만 댓글을 작성 및 조회할 수 있다.
 * -[ ] 댓글은 최신순으로 정렬된다.
@@ -59,6 +62,7 @@
 </br>
 
 ## 🔗 ERD
-<img width="1080" alt="erd" src="https://user-images.githubusercontent.com/121335941/236657541-0ea1995b-bb06-4de1-b916-d9c292917782.png">
+<img width="1103" alt="erd" src="https://github.com/srh0820/community/assets/121335941/f6c0a641-ded4-466e-b265-8ed5b0ae1b71">
+
 
 ## ✔️ [Trouble Shooting](https://github.com/srh0820/community/blob/main/Trouble_Shooting.md)
